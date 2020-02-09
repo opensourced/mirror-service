@@ -1,4 +1,4 @@
-# Opensourced Mirror Service
+# Opensourced Mirror Service ![Gitter](https://img.shields.io/gitter/room/OpensourcEd/community?logo=gitter)
 
 This is a project that mirrors Git repos into the OpensourcEd GitHub organisation.
 
