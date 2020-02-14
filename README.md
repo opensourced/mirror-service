@@ -4,7 +4,7 @@ This is a project that mirrors Git repos into the OpensourcEd GitHub organisatio
 
 ## How does it work
 
-Whenever the master branch is updated, a GitLab pipeline runs whcih forms repos
+Whenever the master branch is updated, a GitLab pipeline runs which forks repos
 into the OpensourcEd GitHub organisation.
 
 ## How to contribute
